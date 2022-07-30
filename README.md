@@ -1,4 +1,5 @@
 # Hackin
+**[code in branch master]**
 
 A copy of github, but to save codes used in pen testing.
 
@@ -10,7 +11,5 @@ The project contain:
 The idea is to be able to share pen test code with the community on a platform similar to github.
 
 It's not online yet, but someday I'll host it on a server on the internet
-
-**[code in branch master]**
 
 Created by **Guilherme Vaz**, aka **zorya** or **none gui**.
