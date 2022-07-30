@@ -1,0 +1,10 @@
+if(led[j] == '1') aux += 2;
+            if(led[j] == '2') aux += 5;
+            if(led[j] == '3') aux += 5;
+            if(led[j] == '4') aux += 4;
+            if(led[j] == '5') aux += 5;
+            if(led[j] == '6') aux += 6;
+            if(led[j] == '7') aux += 3;
+            if(led[j] == '8') aux += 7;
+            if(led[j] == '9') aux += 6;
+            if(led[j] == '0') aux += 6;
