@@ -1,0 +1,25 @@
+.editor{
+    border: 1px solid #ced4da;
+}
+.editor-texto{
+    min-height:500px !important;
+}
+.public-DraftStyleDefault-block{
+        margin:0 !important;
+        margin-left: 10px !important;
+}
+.rdw-editor-toolbar{
+    border:0 !important;
+    background:#f1f2f3 !important;
+    padding:10px !important;
+}
+.rdw-option-wrapper {
+    background:#f1f2f3 !important;
+}
+
+.rdw-emoji-wrapper  {
+    display:none !important;
+}
+.rdw-embedded-wrapper{
+    display:none !important;
+}

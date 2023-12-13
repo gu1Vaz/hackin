@@ -1,0 +1,56 @@
+{
+  "name": "cliente",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@pathofdev/react-tag-input": "^1.0.7",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "interweave": "^12.6.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.1",
+    "popper.js": "^1.16.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-circular-progressbar": "^2.0.3",
+    "react-dom": "^17.0.1",
+    "react-draft-wysiwyg": "^1.14.5",
+    "react-hook-form": "^6.12.2",
+    "react-icons": "^3.11.0",
+    "react-moment": "^0.9.7",
+    "react-monaco-editor": "^0.40.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^4.0.1",
+    "react-toastify": "^5.5.0",
+    "socket.io": "^2.2.0",
+    "styled-components": "^4.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0"
+  }
+}
